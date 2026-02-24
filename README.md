@@ -38,3 +38,5 @@ Risk Identification: By identifying that $37M is tied up in "Bad Loans," the ban
 Download the .pbix file from this repository.
 Open it using Power BI Desktop.
 Interact with the Purpose slicer on the left to filter the entire report by specific loan types.
+
+SnapShot:- https://github.com/SahilSwamy/BANK_LOAN_DASHBOARD/blob/main/BANK%20REPORT%20SS.png
